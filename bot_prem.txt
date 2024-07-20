@@ -10,7 +10,6 @@
 @yuda_21 = 1172067945
 @Axiesgame = 1968689264
 @Moel91 = 5480042556
-@Ehjibb = 7170496930
 @Rahmancheater = 683297671
 @hana_celluler = 5515975181
 @Kepoo25 = 5238897802
@@ -34,7 +33,6 @@
 @Gakkkrohh = 723905677
 @rama_rafiq = 1041632802
 @R_jack21 = 1459553807
-@BangUgibumi = 5416160555
 @Agungf16 = 448880163
 @Romito27 = 6299322314
 @Budi_sugiantoro = 6878401626
