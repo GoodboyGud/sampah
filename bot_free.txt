@@ -8,3 +8,4 @@
 @yopiajahh = 1402784659
 @Kangmaul = 603688100
 @Sabar_Gaisss = 5505709941
+@Tanzer22 = 6124614516
