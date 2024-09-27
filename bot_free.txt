@@ -16,3 +16,4 @@
 @Indrafoto = 229077139
 @ldmuhhendra = 1244312670
 @SiapaAjaBolehDMS666 = 1176002275
+@GroupAnonymousBot = 1087968824
