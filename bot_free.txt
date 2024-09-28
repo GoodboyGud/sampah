@@ -19,3 +19,4 @@
 @GroupAnonymousBot = 1087968824
 @Wahid31N = 1133067037
 @Biruadhd = 851450249
+@Bayorega7 = 7202296136
