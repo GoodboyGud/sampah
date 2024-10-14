@@ -53,3 +53,4 @@
 @aerozaqi = 1745291048
 @Gexy8 = 7022558835
 @Dirjan1 = 1846107076
+@anggapsajakenal = 783587816
