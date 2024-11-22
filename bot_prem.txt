@@ -32,7 +32,6 @@
 @Agungf16 = 448880163
 @Romito27 = 6299322314
 @Budi_sugiantoro = 6878401626
-@esturizkyp = 5291140370
 @IrfanFR = 5645537022
 @CAPSCOO = 1121240475
 @didix17 = 5755161294
@@ -45,14 +44,9 @@
 @diiki23 = 1078091893
 @Alfinadia = 5470863711
 @Akkadoodle = 510227390
-@ganu2319 = 6824979894
 @agungb123 = 5515975181
 @ranetsolution = 7102028483
 @Zack_y = 555898759
 @agung899 = 5453968109
-@aerozaqi = 1745291048
-@Gexy8 = 7022558835
-@Dirjan1 = 1846107076
-@anggapsajakenal = 783587816
 @GreeN_w0Lf = 7022558835
 @aghayfaqot = 5348407233
