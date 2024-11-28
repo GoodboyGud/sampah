@@ -30,3 +30,4 @@
 @TRIYONO701 = 606339645
 @jual_beli_fitnah = 1948870323
 @bepangsar_dada = 7512038234
+@RiuZzi = 2052707570
