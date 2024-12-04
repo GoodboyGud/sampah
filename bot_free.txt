@@ -31,3 +31,4 @@
 @jual_beli_fitnah = 1948870323
 @bepangsar_dada = 7512038234
 @RiuZzi = 2052707570
+@lakuna234 = 1400039980
