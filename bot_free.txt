@@ -32,3 +32,4 @@
 @bepangsar_dada = 7512038234
 @RiuZzi = 2052707570
 @lakuna234 = 1400039980
+@falenerof = 7168590424
