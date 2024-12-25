@@ -59,3 +59,4 @@
 @Cloub_R = 840707753
 @Aryaguntara28 = 5631392429
 @Setiaone16 = 418007132
+@terusnaon = 918627019
