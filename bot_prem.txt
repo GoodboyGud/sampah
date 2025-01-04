@@ -61,3 +61,4 @@
 @Aghayfaqot = 5348407233
 @Muhamad050604 = 5606734397
 @Kang5et = 7580022475
+@dicky_otv = 1161764802
