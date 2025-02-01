@@ -68,3 +68,4 @@
 @fearlucky9 = 6169072675
 @ReCiBaL = 6442911956
 @Manshur27 = 7419927990
+@kunyut_tarus = 7512038234
