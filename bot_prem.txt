@@ -66,3 +66,4 @@
 @kunyut_tarus = 7512038234
 @JamesBrody86 = 5626191979
 @Lintasdehanet = 6272209453
+@onal047 = 1330226916
