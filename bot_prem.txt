@@ -46,8 +46,6 @@
 @Zack_y = 555898759
 @agung899 = 5453968109
 @aghayfaqot = 5348407233
-@bepangsar_dada = 7512038234
-@Masssbrooooo = 7035875636
 @Tyaninv = 1099985056
 @Cloub_R = 840707753
 @Aryaguntara28 = 5631392429
@@ -60,13 +58,10 @@
 @rasolution = 7102028483
 @Inzaghi96 = 5457066293
 @Chomarr12 = 6780465798
-@ReCiBaL = 6442911956
-@Manshur27 = 7419927990
 @kunyut_tarus = 7512038234
 @JamesBrody86 = 5626191979
 @Lintasdehanet = 6272209453
 @onal047 = 1330226916
-@Kingemyuqw = 5549314860
 @NashPho = 5169636548
 @CekYti = 5547994375
 @Kang5et = 7580022475
