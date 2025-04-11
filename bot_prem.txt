@@ -62,7 +62,6 @@
 @Lintasdehanet = 6272209453
 @onal047 = 1330226916
 @NashPho = 5169636548
-@CekYti = 5547994375
 @Kang5et = 7580022475
 @Biruadhd = 851450249
 @aerozaqi = 1745291048
