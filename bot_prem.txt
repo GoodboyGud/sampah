@@ -54,7 +54,6 @@
 @Aghayfaqot = 5348407233
 @Muhamad050604 = 5606734397
 @dicky_otv = 1161764802
-@rasolution = 7102028483
 @Inzaghi96 = 5457066293
 @Chomarr12 = 6780465798
 @kunyut_tarus = 7512038234
@@ -68,14 +67,12 @@
 @varrstd = 5850727477
 @aryanta1 = 7173842295
 @Masdaaayyy = 1033557796
-@Khairulhuda = 517024695
 @littleboys99 = 7137503467
 @lunatech_store = 5309670758
 @cakbas2k = 1917960470
 @unclerusa = 5585640454
 @Gags15 = 5429016813
 @esperionz = 5126401072
-@greatgoblin = 6171363458
 @cakbas2k2003 = 7978609013
 @muhammadfariq = 157559094
 @hendra_fz_lietime = 1193153985@Kangmaul = 603688100
