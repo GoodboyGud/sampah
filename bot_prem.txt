@@ -75,6 +75,7 @@
 @esperionz = 5126401072
 @cakbas2k2003 = 7978609013
 @muhammadfariq = 157559094
-@hendra_fz_lietime = 1193153985@Kangmaul = 603688100
+@hendra_fz_lietime = 1193153985
+@Kangmaul = 603688100
 @bayoregar84 = 7752457241
 @emiolanet = 7309748386
