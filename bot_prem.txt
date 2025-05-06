@@ -29,7 +29,6 @@
 @Gakkkrohh = 723905677
 @rama_rafiq = 1041632802
 @R_jack21 = 1459553807
-@Agungf16 = 448880163
 @Romito27 = 6299322314
 @IrfanFR = 5645537022
 @didix17 = 5755161294
