@@ -54,3 +54,4 @@
 @fathursaleh = 449653023
 @Aryaguntara28 = 5631392429
 @munizar = 200932850
+@muhammadfariq = 157559094
