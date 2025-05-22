@@ -86,3 +86,4 @@
 @ReCiBaL = 6442911956
 @fatihZacky_1bulan = 5621960221
 @inugrahaa = 7638834074
+@yopiajahh = 1402784659
