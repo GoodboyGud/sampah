@@ -87,3 +87,4 @@
 @fatihZacky_1bulan = 5621960221
 @inugrahaa = 7638834074
 @yopiajahh = 1402784659
+@rossifatkur = 2096204339
