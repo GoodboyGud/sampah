@@ -1,4 +1,3 @@
-@wahyunurfauzan = 1203952699
 @Aphilia = 1569381164
 @Hrtekno = 1490857731
 @zaraki97 = 525514728
@@ -37,7 +36,6 @@
 @botta_nubi = 7262571979
 @Ent0ng = 5654890503
 @Procopas = 1469379190
-@Ehjibb = 7170496930
 @diiki23 = 1078091893
 @Alfinadia = 5470863711
 @Akkadoodle = 510227390
@@ -45,8 +43,6 @@
 @Zack_y = 555898759
 @agung899 = 5453968109
 @aghayfaqot = 5348407233
-@Tyaninv = 1099985056
-@Cloub_R = 840707753
 @Aryaguntara28 = 5631392429
 @Setiaone16 = 418007132
 @Happyyxz = 7010112848
@@ -63,7 +59,6 @@
 @NashPho = 5169636548
 @Kang5et = 7580022475
 @Biruadhd = 851450249
-@aerozaqi = 1745291048
 @varrstd = 5850727477
 @aryanta1 = 7173842295
 @Masdaaayyy = 1033557796
@@ -72,7 +67,6 @@
 @cakbas2k = 1917960470
 @unclerusa = 5585640454
 @Gags15 = 5429016813
-@esperionz = 5126401072
 @cakbas2k2003 = 7978609013
 @muhammadfariq = 157559094
 @hendra_fz_lietime = 1193153985
