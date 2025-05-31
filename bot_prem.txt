@@ -68,7 +68,6 @@
 @unclerusa = 5585640454
 @Gags15 = 5429016813
 @cakbas2k2003 = 7978609013
-@muhammadfariq = 157559094
 @hendra_fz_lietime = 1193153985
 @Kangmaul = 603688100
 @bayoregar84 = 7752457241
