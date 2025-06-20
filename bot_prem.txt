@@ -57,7 +57,6 @@
 @Lintasdehanet = 6272209453
 @onal047 = 1330226916
 @NashPho = 5169636548
-@Kang5et = 7580022475
 @Biruadhd = 851450249
 @varrstd = 5850727477
 @aryanta1 = 7173842295
