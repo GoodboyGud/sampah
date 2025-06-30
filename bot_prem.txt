@@ -26,7 +26,6 @@
 @Malvinvinder = 5683657742
 @Bobobabebo = 5418631968
 @dika98 = 1310195675
-@Gakkkrohh = 723905677
 @rama_rafiq = 1041632802
 @R_jack21 = 1459553807
 @Romito27 = 6299322314
