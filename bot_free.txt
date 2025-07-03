@@ -64,3 +64,4 @@
 @Sanzkuyzz = 633896065
 @pecandukopi0 = 5497971305
 @R_adi_t = 7027499780
+@mby_jay = 5200986428
