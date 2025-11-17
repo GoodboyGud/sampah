@@ -95,3 +95,4 @@
 @yuda_21 = 8254675677
 @karsonoyacub = 5439771406
 @DeanWawa = 5472207457
+@Bayoregar8 = 8389218481
