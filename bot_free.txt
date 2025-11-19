@@ -67,3 +67,4 @@
 @mby_jay = 5200986428
 @DeanWawa = 5472207457
 @ChinoAudio = 972199247
+@dedyrose = 478738053
